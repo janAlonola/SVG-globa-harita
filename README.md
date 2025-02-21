@@ -2,7 +2,7 @@
 
 This package includes interactive SVG map of world with the labels of 193 UN member states.
 
-[Go to Homepage](https://ahuseyn.github.io/SVG-World-Map-with-labels/)
+[Go to Homepage](https://janalonola.github.io/SVG-globa-harita/)
 
 ## Features:
 
